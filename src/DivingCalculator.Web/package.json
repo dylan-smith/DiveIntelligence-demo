@@ -42,7 +42,7 @@
     "@azure/static-web-apps-cli": "^1.1.4",
     "@types/jasmine": "~4.3.6",
     "@types/plotly.js-basic-dist-min": "^2.12.2",
-    "@typescript-eslint/eslint-plugin": "5.62.0",
+    "@typescript-eslint/eslint-plugin": "6.7.5",
     "@typescript-eslint/parser": "5.62.0",
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
